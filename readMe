@@ -1,0 +1,7 @@
+Java with Mongo Db
+-----------------------------
+In this project you will be able to run a small program with Mongo db driver and be able to 
+a) create a no sql database
+b) Read from the database
+c) Insert values 
+d) Update the value 
