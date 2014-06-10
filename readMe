@@ -5,3 +5,5 @@ a) create a no sql database
 b) Read from the database
 c) Insert values 
 d) Update the value 
+
+An explanation of this working example can be found at http://www.skill-guru.com/blog/2014/06/09/nosql-with-mongo-db-tutorial/
