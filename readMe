@@ -12,3 +12,7 @@ An explanation of this working example can be found at
 <a href="http//:yahoo.com">test link </a>
 
 [JSPWiki 2.8 New Features|http://www.jspwiki.org/wiki/NewIn2.8]
+
+[Link Text](www.jspwiki.org/wiki/NewIn2.8)
+
+link:www.jspwiki.org/wiki/NewIn2.8[Link Text]
